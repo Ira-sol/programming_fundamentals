@@ -2,8 +2,8 @@ package BudgetCalculatorProject;
 public class BudgetCalculator {
 
     //Define Constants
-    public static final double SALARY = 3000.0;
-    public static final double SAVINGS_PERCENT = 0.20;
+    public static final double SALARY = 4000.0;
+    public static final double SAVINGS_PERCENT = 0.10;
     public static final double RENT_PERCENT = 0.30;
     public static final double GROCERIES_PERCENT = 0.15;
     public static final double ENTERTAINMENT_PERCENT = 0.10;
